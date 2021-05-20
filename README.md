@@ -5,4 +5,4 @@
 
 
 1. [INTERNATIONAL GUIDELINES FOR CERTIFICATION AND CLASSIFICATION (CODING) OF COVID-19 AS CAUSE OF DEATH](https://www.who.int/classifications/icd/Guidelines_Cause_of_Death_COVID-19.pdf) - World Health Organization
-2. 
+2. [Underlying Cause of Death](https://www.cebm.net/covid-19/death-certificate-data-covid-19-as-the-underlying-cause-of-death/)
